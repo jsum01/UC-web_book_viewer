@@ -220,19 +220,13 @@
             <p class="write_by">[네이버 지식백과] 변신 [Die Verwandlung] <br>(카프카 전집 사전, 2005. 12. 27., 프란츠 카프카, 이주동, 한석종, 오용록)</p>
           </p>
         </dl>
+      <!-- 우측 페이지 -->
       </div>
       <div class="write_table_2">
-        <h2 class="bub">구성</h2>
-        <p class="write_body">1. 시점 : 1인칭 > 3인칭
-        <br>2. 구분 : 창작물
-        <br>3. 메인주제 : 환각
-        <br>4. 보조주제 : 현 시대 배경과 작품의 연결
+        <h2 class="bub">책 외관 표지</h2>
+        <p class="write_body"><img src="https://blogfiles.pstatic.net/MjAyMDAyMjFfMjcy/MDAxNTgyMjgxODE0MzU2.lF3dmyKQDwHeYPmIHr7CYoFFeQ_dmLoeU6bZbQzlV3Ag.Gj_akWD6CsRDBnT1Df1pjUbyg-ruZC9um0mMTGJjTwUg.JPEG.skykakim/1582281813022.jpg" alt="변신 표지" width="500px">
+        <p class="write_by">출처 : https://blog.naver.com/skykakim/221818889280
         <br><br>
-        </p>
-        <h2 class="bub">팀 소개</h2>
-        <p class="write_body">1. HTML 제작 및 레이아웃 구성 : 2312008 김태훈
-        <br>2. 아이디어 창작 및 창작물 제공 : 2012001 엄지석
-        </p>
       </div>
   </main>
   <footer>
@@ -259,9 +253,6 @@
 
   --font-code: 'Nanum Gothic Coding', monospace;;
 
-  --font-size-title: 44px;
-  --font-size-subtitle: 32px;
-  --font-size-tag: 26px;
   --font-size-larger: 1.05vw;
   --font-size-text: 0.7vw;
 
@@ -311,7 +302,8 @@ hr {
   padding: 0;
   width: 41%;
 }
-
+/* 리셋구간 종료 */
+/* 헤더 부분 */
 header {
   display: flex;
   position: sticky;
@@ -325,7 +317,7 @@ header {
   color: white;
   font-size: var(--font-size-larger);
 }
-
+/* 하단 툴바 */
 footer {
   display: flex;
   z-index: 2;
@@ -362,6 +354,7 @@ footer {
   width: 100%;
   height: 3px;
 }
+/* 본문 큰 테이블 */
 .book_table{
   margin: 0;
   padding: 0;
@@ -375,7 +368,7 @@ footer {
   z-index: 0;
   position: relative;
 }
-
+/* 화살표 위치 */
 .previous_page{
   top: 95%;
   left: 10%;
@@ -391,7 +384,7 @@ footer {
   z-index: 5;
   opacity: 100%;
 }
-
+/* 본문 요소 */
 .bub{
   display: inline-block;
   color: var(--color-main);
@@ -423,7 +416,7 @@ footer {
 .write_by{
   font-size: 0.5vw;
   margin-top: 1em;
-  margin-left: 1.5em;
+  margin-left: 3em;
   line-height: 3em;
   white-space: inherit;
   color: var(--color-dark);
@@ -435,7 +428,7 @@ footer {
 
 .write_table_2{
   margin-left: 54vw;
-  top: -24.8em;
+  top: -27.4em;
   font-size: 1.5vw;
   z-index: 0;
   position: relative;
