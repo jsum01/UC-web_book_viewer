@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 281.59 73.65">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 23.28px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: AdobeMyungjoStd-Medium-KSCpc-EUC-H, 'Adobe Myungjo Std';
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        opacity: .4;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7 {
+        font-size: 63.1px;
+      }
+
+      .cls-3 {
+        opacity: .9;
+      }
+
+      .cls-4 {
+        opacity: .3;
+      }
+
+      .cls-5 {
+        opacity: .5;
+      }
+
+      .cls-6 {
+        fill: #4f4f4f;
+        font-size: 24.17px;
+      }
+
+      .cls-7 {
+        opacity: .2;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(2.73 60.38)"><tspan x="0" y="0">hallucination,</tspan></text>
+  <text class="cls-6" transform="translate(0 59.92) scale(.96 1)"><tspan x="0" y="0">hallucination,</tspan></text>
+  <text class="cls-7" transform="translate(150.95 64.31)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-7" transform="translate(155.39 55.53)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-7" transform="translate(154.49 56.64)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-7" transform="translate(155.39 58.66)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-3" transform="translate(149.44 61.38)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-7" transform="translate(150.34 56.64)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-5" transform="translate(145.16 61.38)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-7" transform="translate(154.49 56.64)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-2" transform="translate(154.49 59)"><tspan x="0" y="0">환각</tspan></text>
+  <text class="cls-4" transform="translate(150.98 63.54)"><tspan x="0" y="0">환각</tspan></text>
+</svg>
